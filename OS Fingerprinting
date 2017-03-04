@@ -1,0 +1,7 @@
+
+xprobe2 -v -p tcp:PORT:open IP
+
+nmap -O IP
+
+pOf IP
+
